@@ -1,0 +1,1 @@
+# Barcode-and-QR-code-reader-with-Python
