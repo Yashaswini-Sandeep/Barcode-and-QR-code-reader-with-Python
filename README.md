@@ -13,3 +13,4 @@ You can install these dependencies using pip:
 
 ```bash
 pip install opencv-python pyzbar
+pip install -r requirements.txt
